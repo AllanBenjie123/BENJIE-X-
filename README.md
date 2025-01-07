@@ -26,8 +26,8 @@
 
 <p align="center">
 <a href="https://github.com/djbheron100/followers"><img title="Followers" src="https://img.shields.io/github/followers/djbheron100?color=blue&style=flat-square"></a>
-<a href="https://github.com/djbheron100/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/djbheron100/Bheron-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/djbheron100/Bheron-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/djbheron100/Bheron-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/djbheron100/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/djbheron100/Benjie-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/djbheron100/Bheron-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/djbheron100/Benjie-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/djbheron100/Bheron-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/djbheron100/Bheron-MD?style=flat-square&color=blue"></a>
 <a href="https://github.com/djbheron100/QUEEN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -49,7 +49,7 @@
 
   
    
-   <a href="https://github.com/djbheron100/Bheron-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/djbheron100/Benjie-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -60,7 +60,7 @@
  
 
 
-  <a href="https://bheron-md-1.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=adidas" width="230" height="38.45"/></a></p>
+  <a href="https://benjie-md-1.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=adidas" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
