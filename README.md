@@ -1,8 +1,8 @@
 
-# 𝗕𝗛𝗘𝗥𝗢𝗡-MD
+# BENJIE-MD
 
 
-## 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽
+## 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 ALLAN-BENJIE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻+𝙱𝙷𝙴𝚁𝙾𝙽+☠︎︎)](https://git.io/typing-svg) 
 
@@ -21,7 +21,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙿𝚁𝙾𝙶𝚁𝙴𝚂𝚂 𝙵𝙾𝚁  𝙱𝙷𝙴𝚁𝙾𝙽-𝙼𝙳 𝙱𝙾𝚃
+## 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙿𝚁𝙾𝙶𝚁𝙴𝚂𝚂 𝙵𝙾𝚁  BENJIE-MD BOT
 
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 
 
-## 𝙷𝙾𝚆 𝚃𝙾 𝙶𝙴𝚃 𝙱𝙷𝙴𝚁𝙾𝙽-𝙼𝙳 𝙱𝙾𝚃
+## 𝙷𝙾𝚆 𝚃𝙾 𝙶𝙴𝚃 BENJIE-MD BOT
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -92,15 +92,15 @@
    𝙹𝙾𝙸𝙽 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙿 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
 
 <a
-href="https://chat.whatsapp.com/ETRxZtsoOtxHZekpW7x6Nk" target="blank"><img
+href="https://whatsapp.com/channel/0029VatVPzR2ZjCpJbZ5nG2n" target="blank"><img
  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="𝚄𝙿𝙳𝙰𝚃𝙴" height="60" width="70" /></a>
 
 
 
-## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
+## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 ALLAN BENJIE HERE
  
    
-   <a href="https://wa.me/27610822140">
+   <a href="https://wa.me/256709117848">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
